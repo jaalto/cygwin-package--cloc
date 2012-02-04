@@ -1,0 +1,17 @@
+--- cloc.1.pod.original	2012-02-04 21:26:25.768617700 +0200
++++ cloc.1.pod	2012-02-04 21:26:50.223016400 +0200
+@@ -359,10 +359,9 @@
+ Copyright (C) 2006-2010 Northrop Grumman Corporation, released under
+ the GNU GPL version 2 or (at your option) any later version.
+ 
+-This manual page was written by Jari Aalto <jari.aalto@cante.net>, for
+-the Debian GNU system (but may be used by others). Updated by Jari
+-Aalto <jari.aalto@cante.net>. Released under license GNU GPL version 2
+-or (at your option) any later version. For more information about
+-license, visit <http://www.gnu.org/copyleft/gpl.html>.
++This manual page was written by Jari Aalto <jari.aalto@cante.net>.
++Released under license GNU GPL version 2 or (at your option) any later
++version. For more information about license, visit
++<http://www.gnu.org/copyleft/gpl.html>.
+ 
+ =cut

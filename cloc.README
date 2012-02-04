@@ -1,0 +1,68 @@
+cloc
+------------------------------------------
+
+Statistics utility to count lines of code.
+
+Count physical lines of source code in the given files (may be
+archives such as compressed tarballs or zip files) and/or
+recursively below the given directories.
+
+Before use, install additional perl modules:
+
+    cpan Regexp::Common Algorithm::Diff
+
+Runtime requirements:
+  perl
+
+Build requirements:
+  cygwin
+
+Canonical homepage:
+  http://freshmeat.net/projects/cloc
+  http://cloc.sourceforge.net/
+
+Canonical download:
+  http://sourceforge.net/projects/cloc
+
+Version control repository:
+  http://sourceforge.net/projects/cloc/develop
+
+Mailing list:
+
+Forum / Wiki:
+
+IRC channel:
+
+Upstream contact:
+  Maintainer: Al Danial <al.danial@gmail.com>
+  Bugs: https://sourceforge.net/tracker/?group_id=174787&atid=870622
+
+License:
+  GPL-2+
+
+Language:
+  Perl
+
+------------------------------------------
+
+Build instructions:
+  unpack cloc-*-src.tar.bz2
+    if you use setup to install this source package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  ./cloc*.sh all
+
+------------------------------------------
+
+Files included in the binary distribution:
+  See Cygwin package archive
+
+------------------------------------------
+
+Port Notes:
+
+----- version 1.55-1 -----
+- Initial release 2012-02-04 Jari Aalto
+
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2012 Jari Aalto; Licensed under GPL v2 or later

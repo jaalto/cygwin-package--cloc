@@ -21,7 +21,9 @@ See http://cloc.svn.sourceforge.net/viewvc/cloc/trunk/cloc?view=log
 INSTALL OR UPGRADE NOTES
 ========================
 
-Standard install.
+Pogram needs external Perl modules from CPAN. Install them with:
+
+  cpan Regexp::Common Algorithm::Diff
 
 CYGWIN INSTALLATION INFORMATION
 ===============================

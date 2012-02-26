@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: cloc 1.55-1 -- Statistics utility to count lines of code.
+Subject: New package: cloc 1.55-1 -- Statistics utility to count lines of code.
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -15,15 +15,12 @@ recursively below the given directories.
 CHANGES SINCE LAST RELEASE
 ==========================
 
-The project does not keep ChnageLogs
 See http://cloc.svn.sourceforge.net/viewvc/cloc/trunk/cloc?view=log
 
 INSTALL OR UPGRADE NOTES
 ========================
 
-Pogram needs external Perl modules from CPAN. Install them with:
-
-  cpan Regexp::Common Algorithm::Diff
+Standard install.
 
 CYGWIN INSTALLATION INFORMATION
 ===============================

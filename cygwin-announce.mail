@@ -1,12 +1,12 @@
 To: cygwin-announce@cygwin.com
-Subject: New package: cloc 1.55-1 -- Statistics utility to count lines of code.
+Subject: Updated: cloc 1.55-2 -- Statistics utility to count lines of code.
 --text follows this line--
 
 PACKAGE DESCRIPTION
 ===================
 
 Homepage: http://freshmeat.net/projects/cloc
-License : GPL
+License : GPL-2+
 
 Count physical lines of source code in the given files (may be
 archives such as compressed tarballs or zip files) and/or
@@ -15,12 +15,16 @@ recursively below the given directories.
 CHANGES SINCE LAST RELEASE
 ==========================
 
+Cygwin: Fix shebang line.
+
 See http://cloc.svn.sourceforge.net/viewvc/cloc/trunk/cloc?view=log
 
 INSTALL OR UPGRADE NOTES
 ========================
 
-Standard install.
+Before use, install additional perl modules:
+
+    cpan Regexp::Common Algorithm::Diff
 
 CYGWIN INSTALLATION INFORMATION
 ===============================

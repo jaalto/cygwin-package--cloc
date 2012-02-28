@@ -1,0 +1,25 @@
+2012-02-28 12:34
+
+PACKAGE DESCRIPTION
+===================
+
+Homepage: http://freshmeat.net/projects/cloc
+License : GPL
+
+Count physical lines of source code in the given files (may be
+archives such as compressed tarballs or zip files) and/or
+recursively below the given directories.
+
+REMOVAL
+=======
+
+Package cloc has been removed. At this time Cygwin does not bundle the
+additional Perl modules needed for this utility via setup.exe.
+
+ADDITIONAL INFO
+===============
+
+The needed non-core Perl are available sepaately from CPAN with command:
+
+   cpan Regexp::Common Algorithm::Diff
+

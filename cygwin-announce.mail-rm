@@ -23,7 +23,8 @@ additional Perl modules needed for this utility via setup.exe.
 ADDITIONAL INFO
 ===============
 
-The needed non-core Perl are available sepaately from CPAN with command:
+The needed non-core Perl modules are available sepaately from CPAN
+with command:
 
    cpan Regexp::Common Algorithm::Diff
 

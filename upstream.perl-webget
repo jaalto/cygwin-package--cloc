@@ -1,2 +1,2 @@
-cloc: package
+tag1: cloc
   http://packages.debian.org/unstable/cloc pregexp:tar.gz file:cloc_1.56.orig.tar.gz new: x:

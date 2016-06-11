@@ -1,3 +1,4 @@
+# ARCH=noarch
 sdesc: "Statistics utility to count lines of code"
 ldesc: "Count physical lines of source code in the given files (may be
 archives such as compressed tarballs or zip files) and/or

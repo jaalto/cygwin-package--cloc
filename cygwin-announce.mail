@@ -1,11 +1,11 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: cloc 1.56-1 -- Statistics utility to count lines of code
+Subject: Updated: cloc 1.60-1 -- Statistics utility to count lines of code
 --text follows this line--
 
 PACKAGE DESCRIPTION
 ===================
 
-Homepage: http://freshmeat.net/projects/cloc
+Homepage: https://github.com/AlDanial/cloc
 License : GPL-2+
 
 Count physical lines of source code in the given files (may be

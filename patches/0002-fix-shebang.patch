@@ -9,21 +9,14 @@ Content-Transfer-Encoding: 8bit
 Signed-off-by: Jari Aalto <jari.aalto@cante.net>
 ---
  cloc |    2 +-
- 1 files changed, 1 insertions(+), 1 deletions(-)
+ 1 file changed, 1 insertion(+), 1 deletion(-)
  mode change 100644 => 100755 cloc
 
-diff --git a/cloc b/cloc
-old mode 100644
-new mode 100755
-index fb8674b..85023f3
 --- a/cloc
 +++ b/cloc
 @@ -1,4 +1,4 @@
 -#!/usr/bin/env perl
 +#!/usr/bin/perl
- # cloc -- Count Lines of Code {{{1
- # Copyright (C) 2006-2011 Northrop Grumman Corporation
+ # cloc -- Count Lines of Code                  {{{1
+ # Copyright (C) 2006-2013 Northrop Grumman Corporation
  # Author:  Al Danial <al.danial@gmail.com>
--- 
-1.7.5.1
-

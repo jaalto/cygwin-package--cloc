@@ -9,16 +9,12 @@ Content-Transfer-Encoding: 8bit
 Signed-off-by: Jari Aalto <jari.aalto@cante.net>
 ---
  cloc |   24 ++++++++++++++++++++++++
- 1 files changed, 24 insertions(+), 0 deletions(-)
+ 1 file changed, 24 insertions(+)
  mode change 100644 => 100755 cloc
 
-diff --git a/cloc b/cloc
-old mode 100644
-new mode 100755
-index fb8674b..b07bdc4
 --- a/cloc
 +++ b/cloc
-@@ -48,6 +48,30 @@ use File::Spec;
+@@ -45,6 +45,30 @@ use File::Spec;
  use IO::File;
  use POSIX "strftime";
  
@@ -49,6 +45,3 @@ index fb8674b..b07bdc4
  # Digest::MD5 isn't in the standard distribution. Use it only if installed.
  my $HAVE_Digest_MD5 = 0;
  eval "use Digest::MD5;";
--- 
-1.7.5.1
-

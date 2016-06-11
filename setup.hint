@@ -3,4 +3,4 @@ ldesc: "Count physical lines of source code in the given files (may be
 archives such as compressed tarballs or zip files) and/or
 recursively below the given directories."
 category: Perl Utils
-requires: perl
+requires: perl perl-Algorithm-Diff perl-Regexp-Common
